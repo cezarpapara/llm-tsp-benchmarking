@@ -1,4 +1,4 @@
-FROM python:3.14-rc-slim
+FROM python:3.14
 
 # Install system dependencies
 # build-essential is for C-extensions, libpq-dev is for PostgreSQL
